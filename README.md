@@ -37,7 +37,7 @@ Follow these steps to set up and run the Smart Energy Meter system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-repo>/smart-energy-meter.git
+   git clone https://github.com/Naveenork/Smart-Energy-Meter-Integrating-with-bill-Generation-.git
    cd smart-energy-meter/backend
    ```
 
